@@ -1,0 +1,16 @@
+/* Analytics */
+.analytics-page { padding: 18px; } 
+.analytics-header h2 { font-size: 22px; font-weight: 700; } 
+.analytics-header p { color: var(--muted); margin-top: 2px; } 
+.kpi-grid { display: grid; grid-template-columns: repeat(4,1fr); gap: 14px; margin: 18px 0; } 
+.kpi-card { background: var(--panel); padding: 18px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.05); display:flex; flex-direction: column; justify-content:center; } 
+.kpi-label { font-size:13px; color:var(--muted); } 
+.kpi-card h3 { margin-top: 6px; font-size: 24px; font-weight: 700; } 
+.chart-grid, .chart-row { display: grid; gap: 14px; margin-bottom: 14px; } 
+.chart-grid { grid-template-columns: 2fr 1fr; } 
+.chart-row { grid-template-columns: 1fr 1fr; } 
+.chart-panel { background: var(--panel); padding: 16px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.05); } 
+.chart-panel h4 { margin-bottom: 10px; font-weight: 600; font-size: 15px; } 
+.chart-panel.large { min-height: 340px; } 
+.chart-panel.full { width: 100%; margin-top: 16px; min-height: 300px; } 
+.chart-panel canvas { width: 100% !important; height: 260px !important; }

@@ -1,0 +1,29 @@
+#inventoryTable { width: 100%; border-collapse: collapse; table-layout: fixed; } 
+#inventoryTable th, #inventoryTable td { border: 1px solid #e2e5ea; } 
+#inventoryTable th:nth-child(1), #inventoryTable td:nth-child(1) { width: 10%; text-align: center; } 
+#inventoryTable th:nth-child(2), #inventoryTable td:nth-child(2) { width: 23%; } 
+#inventoryTable th:nth-child(3), #inventoryTable td:nth-child(3) { width: 15%; } 
+#inventoryTable th:nth-child(4), #inventoryTable td:nth-child(4) { width: 10%; text-align: center; } 
+#inventoryTable th:nth-child(5), #inventoryTable td:nth-child(5) { width: 12%; text-align: center; } 
+#inventoryTable th:nth-child(6), #inventoryTable td:nth-child(6) { width: 10%; text-align: center; } 
+#inventoryTable th:nth-child(7), #inventoryTable td:nth-child(7) { width: 10%; text-align: center; }
+#inventoryTable th:nth-child(8), #inventoryTable td:nth-child(8) { width: 10%; text-align: center; } 
+#inventoryTable td { padding: 6px 8px; }
+
+.modal{position:fixed;inset:0;background:rgba(0,0,0,.4);display:flex;align-items:center;justify-content:center;z-index:999;}
+.hidden{display:none;}
+.modal-box{background:#fff;border-radius:12px;padding:18px;min-width:560px;}
+.modal-table{width:100%;border-collapse:collapse;margin-top:8px}
+.modal-table th,.modal-table td{border:2px solid #e6e9ef;padding:6px;text-align:center}
+.modal-table input{width:100%;border:none;padding:6px;background:transparent}
+.modal-actions{display:flex;gap:8px;justify-content:flex-end;margin-top:12px}
+.modal-actions button{padding:7px 12px;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer}
+
+/* Bulk Table */
+.section-left { display: flex; align-items: center; gap: 10px; }
+.back-btn { background: #ddd; border: none; padding: 6px 12px; border-radius: 6px; cursor: pointer; }
+.right-controls { display: flex; gap: 10px; }
+.right-controls button { background: var(--accent); color: #fff; padding: 7px 12px; border: none; border-radius: 8px; cursor: pointer; }
+.bulk-table{width:100%;border-collapse:collapse}
+.bulk-table th, .bulk-table td{border:1px solid #e6e9ef;padding:6px}
+.bulk-table input, .bulk-table select{width:100%;border:none;padding:6px;background:transparent}
