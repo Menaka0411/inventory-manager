@@ -41,13 +41,13 @@ No frameworks. No backend. Just clean, efficient, browser-based logic.
 |----------|--------------|------------|
 | ![Img4](screenshots/Img4.png) | ![Img5](screenshots/Img5.png) | ![Img6](screenshots/Img6.png) |
 
-| Settings | Invoice History | Expense Withdraw |
-|-----------|----------------|------------------|
+| Settings | Invoice History | Invoice History PDF |
+|-----------|----------------|----------------------|
 | ![Img7](screenshots/Img7.png) | ![Img8](screenshots/Img8.png) | ![Img9](screenshots/Img9.png) |
 
-| Withdraw History | Withdraw PDF |
-|------------------|--------------|
-| ![Img10](screenshots/Img10.png) | ![Img11](screenshots/Img11.png) |
+| Expense Withdraw | Withdraw History | Withdraw PDF |
+|-------------------|------------------|--------------|
+| ![Img10](screenshots/Img10.png) | ![Img11](screenshots/Img11.png) | ![Img12](screenshots/Img12.png) |
 
 ---
 
