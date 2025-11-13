@@ -31,6 +31,26 @@ No frameworks. No backend. Just clean, efficient, browser-based logic.
 
 ---
 
+## 📸 Screenshots
+
+| Dashboard | Billing | Analytics |
+|------------|----------|------------|
+| ![Img1](screenshots/Img1.png) | ![Img2](screenshots/Img2.png) | ![Img3](screenshots/Img3.png) |
+
+| Inventory CRUD | Bulk Add | Invoice PDF |
+|----------------|-----------|--------------|
+| ![Img4](screenshots/Img4.png) | ![Img5](screenshots/Img5.png) | ![Img6](screenshots/Img6.png) |
+
+| Calendar | Withdraw | Expense Summary |
+|-----------|-----------|----------------|
+| ![Img7](screenshots/Img7.png) | ![Img8](screenshots/Img8.png) | ![Img9](screenshots/Img9.png) |
+
+| Settings | Invoice History |
+|-----------|----------------|
+| ![Img10](screenshots/Img10.png) | ![Img11](screenshots/Img11.png) |
+
+---
+
 ## Future Enhancements
 - **Firebase OTP verification** for shop owner authentication  
 - **Automated WhatsApp Invoice Sharing** (requires online access)
