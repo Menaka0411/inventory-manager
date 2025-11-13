@@ -33,20 +33,20 @@ No frameworks. No backend. Just clean, efficient, browser-based logic.
 
 ## 📸 Screenshots
 
-| Dashboard | Billing | Analytics |
-|------------|----------|------------|
+| Dashboard | Calendar Events | Inventory CRUD |
+|------------|----------------|----------------|
 | ![Img1](screenshots/Img1.png) | ![Img2](screenshots/Img2.png) | ![Img3](screenshots/Img3.png) |
 
-| Inventory CRUD | Bulk Add | Invoice PDF |
-|----------------|-----------|--------------|
+| Billing | Invoice PDF | Analytics |
+|----------|--------------|------------|
 | ![Img4](screenshots/Img4.png) | ![Img5](screenshots/Img5.png) | ![Img6](screenshots/Img6.png) |
 
-| Calendar | Withdraw | Expense Summary |
-|-----------|-----------|----------------|
+| Settings | Invoice History | Expense Withdraw |
+|-----------|----------------|------------------|
 | ![Img7](screenshots/Img7.png) | ![Img8](screenshots/Img8.png) | ![Img9](screenshots/Img9.png) |
 
-| Settings | Invoice History |
-|-----------|----------------|
+| Withdraw History | Withdraw PDF |
+|------------------|--------------|
 | ![Img10](screenshots/Img10.png) | ![Img11](screenshots/Img11.png) |
 
 ---
